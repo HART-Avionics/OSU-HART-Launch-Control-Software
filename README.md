@@ -15,24 +15,24 @@
   </a>
 
   <!-- PROJECT TITLE -->
-  <h1 align="center"><#PROJECT TITLE#></h1>
+  <h1 align="center">Launch Control Software</h1>
 
   <p align="center">
     <!-- PROJECT DESCRIPTION -->
     <#A brief description of / introduction to the project goes here.#>
     <br />
-    <!-- LINK TO DOCUMENTATION -->
+    <!-- LINK TO DOCUMENTATION
     <a href="<#LINK TO DOCUMENTATION#>"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- LINK TO DEMO -->
+    <!-- LINK TO DEMO
     <a href="<#LINK TO DEMO#>">View Demo</a>
+    · -->
+    <!-- LINK TO ISSUES -->
+    <a href="https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/issues">Report Bug</a>
     ·
     <!-- LINK TO ISSUES -->
-    <a href="LINK TO ISSUES">Report Bug</a>
-    ·
-    <!-- LINK TO ISSUES -->
-    <a href="LINK TO ISSUES">Request Feature</a>
+    <a href="https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/issues">Request Feature</a>
   </p>
 </p>
 
@@ -104,7 +104,7 @@ $ sudo apt-get install texlive-latex-recommended texlive-fonts-recommended texli
 ### Installing
 1. Clone the repo
     ```bash
-    $ git clone https://github.com/HART-Avionics/<#PROJECT#>.git
+    $ git clone https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software.git
     ```
 
 <a name="usage"></a>
@@ -153,6 +153,7 @@ Distributed under the GNU Public License. See `LICENSE` for more information.
 Contacts
 -----------
 <!-- Your Name - @your_twitter - example@example.com -->
+**Maintainer:** Samuel D. Villegas - villegsa@oregonstate.edu
 
 <a name="donate"></a>
 Support the Project
@@ -176,17 +177,17 @@ Acknowledgements
 -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[cicd-shield]: https://github.com/Anatrax/HART-Avionics-<#PROJECT#>/workflows/<#WORKFLOW#>/badge.svg?branch=develop
-[cicd-url]: https://github.com/HART-Avionics/docs/actions "<#WORKFLOW#>"
-[contributors-shield]: https://img.shields.io/github/contributors/HART-Avionics/<#PROJECT#>
-[contributors-url]: https://github.com/HART-Avionics/<#PROJECT#>/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HART-Avionics/<#PROJECT#>
-[forks-url]: https://github.com/HART-Avionics/<#PROJECT#>/network/members
-[stars-shield]: https://img.shields.io/github/stars/HART-Avionics/<#PROJECT#>
-[stars-url]: https://github.com/HART-Avionics/<#PROJECT#>/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HART-Avionics/<#PROJECT#>
-[issues-url]: https://github.com/HART-Avionics/<#PROJECT#>/issues
-[license-shield]: https://img.shields.io/github/license/HART-Avionics/<#PROJECT#>
-[license-url]: https://github.com/HART-Avionics/<#PROJECT#>/blob/main/LICENSE
+[cicd-shield]: https://github.com/Anatrax/HART-Avionics-OSU-HART-Launch-Control-Software/workflows/CI/CD/badge.svg?branch=develop
+[cicd-url]: https://github.com/HART-Avionics/docs/actions "CI/CD"
+[contributors-shield]: https://img.shields.io/github/contributors/HART-Avionics/OSU-HART-Launch-Control-Software
+[contributors-url]: https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HART-Avionics/OSU-HART-Launch-Control-Software
+[forks-url]: https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/network/members
+[stars-shield]: https://img.shields.io/github/stars/HART-Avionics/OSU-HART-Launch-Control-Software
+[stars-url]: https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HART-Avionics/OSU-HART-Launch-Control-Software
+[issues-url]: https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/issues
+[license-shield]: https://img.shields.io/github/license/HART-Avionics/OSU-HART-Launch-Control-Software
+[license-url]: https://github.com/HART-Avionics/OSU-HART-Launch-Control-Software/blob/main/LICENSE
 [sphinx-docs]: https://www.sphinx-doc.org/en/master/index.html
 [donate-url]: https://osuaiaa.com/donate
